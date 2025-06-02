@@ -5,6 +5,7 @@ const Navbar = () => (
         <Link to="/" className="hover:text-blue-300">Home</Link>
         <Link to="/about" className="hover:text-blue-300">About</Link>
         <Link to="/crud-redux-toolkit" className="hover:text-blue-300">Crud Redux Toolkit</Link>
+        <Link to="/debounce-autocomplate" className="hover:text-blue-300">Debounce Autocomplate</Link>
     </nav>
 );
 
